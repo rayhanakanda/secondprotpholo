@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    display: flex;
+    width: 50%;
+    
+}
